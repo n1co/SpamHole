@@ -1,6 +1,6 @@
 <?php
 //
-// SpamHole
+// SpamHole 0.1
 //
 $limit = 500;
 $i = 0;
