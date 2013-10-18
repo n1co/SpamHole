@@ -1,7 +1,4 @@
 <?php
-//
-// SpamHole
-//
 $limit = 500;
 $i = 0;
 
